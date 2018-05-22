@@ -1,0 +1,4 @@
+services:
+#    kit_xunsearch.example:
+#        class: Kit\XunsearchBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
